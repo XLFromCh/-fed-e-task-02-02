@@ -1,3 +1,7 @@
 vue-app-base/node_modules/
 webpack-start/node_modules/.bin/acorn.cmd
 webpack-start/node_modules/
+vue-app-base/dist/
+vue-app-base/yarn.lock
+vue-app-base/yarn-error.log
+vue-app-base/package-lock.json

@@ -23,6 +23,8 @@
 
 ## 1、使用 Webpack 实现 Vue 项目打包任务
 
+    项目源码地址：https://github.com/XLFromCh/-fed-e-task-02-02/tree/master/vue-app-base
+
     webpack.common.js中配置项目的通用配置，如entry/output/resolve.extensions(自动扩展后缀)/resolve.alias(引用地址缩写)
     同时将开发环境和生产环境都会用到的loader和plugin也添加在webpack.common.js中，
     除了学习视频中提到的loader之外，webpack.common.js中还用到了vue-style-loader来解析.vue后缀的文件，和postcss-loader来实现自动添加css前缀
